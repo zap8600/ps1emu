@@ -3,6 +3,7 @@
 #ifndef _BIOS_H
 #define _BIOS_H 1
 
+#define BIOS_BASE (0xbfc00000)
 #define BIOS_SIZE (512 * 1024) // 512KB
 
 typedef struct bios_t {

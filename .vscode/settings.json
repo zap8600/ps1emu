@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "interconnect.h": "c",
+        "cpu.h": "c",
+        "bios.h": "c",
+        "util.h": "c"
+    }
+}
