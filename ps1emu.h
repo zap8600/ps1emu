@@ -9,8 +9,16 @@
     #include "mini-rv32ima.h"
 */
 
-#ifdef PS1EMU_IMPLEMENTATION
+struct ps1emu_state_t {
+    unsigned int pc;
+};
 
-#endif
+// #ifdef PS1EMU_IMPLEMENTATION
+
+int ps1emu_step(struct ps1emu_state_t* state) {
+    //
+}
+
+// #endif
 
 #endif

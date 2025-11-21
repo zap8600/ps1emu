@@ -12,7 +12,7 @@ Any code that uses this will need to implement all of the drawing functions requ
 
 ## What about the PlayStation 1's BIOS?
 
-At the current moment, the emulator is not complete. For testing purposes, the original BIOS will be used, but not uploaded to the repository. Once the emulator is in a working state, an open-source BIOS for the PlayStation 1 will be embedded in the emulator header.
+The 
 
 ## Current Progress
 
